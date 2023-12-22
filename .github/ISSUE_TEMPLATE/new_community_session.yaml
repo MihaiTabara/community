@@ -10,7 +10,17 @@ body:
         * ⌛ **Date and Time**
         |                                          Backstage Community                                          |
         |:-----------------------------------------------------------------------------------------------------:|
-        | Wed, <MONTH DD YYYY>, 16:00 CET  <br />  [Use this to convert to your timezone](https://www.timeanddate.com/worldclock/converter.html)                              |
+
+  - type: input
+    id: timestamp
+    attributes:
+      label: 'Date'
+      description: 'What is the date for the next Community Session'
+      placeholder: 'Jan 24th 2024'
+
+  - type: markdown
+    attributes:
+      value: >
         | Share your challenges and successes, demo features and plugins, and hear about major product updates. |
         * 📆 [**Add to your Google Calendar**](https://github.com/backstage/community/tree/main/backstage-community-sessions#backstage-community-sessions)
         * 📓 See the [Backstage community page on Youtube](https://www.youtube.com/@BackstageCommunity) page for recordings of previous meetups.
