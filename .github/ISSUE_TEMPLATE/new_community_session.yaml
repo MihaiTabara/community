@@ -1,0 +1,25 @@
+name: 'Agenda for Backstage Community Session'
+description: 'An issue to draft the Agenda for Backstage Community Session'
+title: 'Agenda for Backstage Community Session (Month DD, YYYY)'
+
+body:
+  - type: markdown
+    attributes:
+      value: >
+        # Details
+        * ⌛ **Date and Time**
+        |                                          Backstage Community                                          |
+        |:-----------------------------------------------------------------------------------------------------:|
+        | Wed, <MONTH DD YYYY>, 16:00 CET  <br />  [Use this to convert to your timezone](https://www.timeanddate.com/worldclock/converter.html)                              |
+        | Share your challenges and successes, demo features and plugins, and hear about major product updates. |
+        * 📆 [**Add to your Google Calendar**](https://github.com/backstage/community/tree/main/backstage-community-sessions#backstage-community-sessions)
+        * 📓 See the [Backstage community page on Youtube](https://www.youtube.com/@BackstageCommunity) page for recordings of previous meetups.
+        * 🔗 **How to join meeting** ⬇️
+        ## How to join the Community Session
+        [Join the Zoom Meeting](https://spotify.zoom.us/j/98402661954)
+        Note: Please sign up on Zoom if you do not have an account. This meeting requires a Zoom account for joining.
+        In case you face issues joining - feel free to use the `#meetup` channel on [Discord](https://discord.com/invite/MUpMjP2).
+        # Action Required
+        * React with a 👍 - if you intend to join. (RSVP)
+        * Add any topic that you think should be discussed as a comment in this issue.
+        * Upvote existing comments/topics.
